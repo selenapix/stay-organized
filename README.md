@@ -13,6 +13,7 @@ If the user wishes to delete a task, they can do so by selecting the "Delete" bu
 ## Licence 
 N/A 
 
+## Screenshots
 ![alt text](<screenshots/Screenshot 2024-06-17 at 3.02.38 PM.png>)
 
 ![alt text](<screenshots/Screenshot 2024-06-17 at 3.03.22 PM.png>)
